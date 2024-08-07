@@ -1,4 +1,4 @@
 # CRM
 
-LEADs potenciales de los meses de Juio y Agosto
+LEADs potenciales de los meses de Julio y Agosto
 
